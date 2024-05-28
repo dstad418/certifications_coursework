@@ -1,6 +1,20 @@
 # certifications_coursework
 Compiled coursework across all certifications.
 
+### Google:
+Data Engineering, Big Data, and Machine Learning on GCP Specialization
+Cloud Database Engineer Specialization
+Machine Learning Engineer Professional Certificate
+Google Data Analytics
+Google Advanced Data Analytics
+Google Business Intelligence
+
+### AWS:
+AWS Fundamentals Certificate
+
+### Microsoft: 
+Azure Data Scientist Associate Certification (DP-100)
+Azure Data Engineering Associate Certification (DP-203)
 
 
 ### Project Titles for each Associated Discipline:
